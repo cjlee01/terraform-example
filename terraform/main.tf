@@ -2,6 +2,7 @@ variable "region" {
   default = "us-west-2"
 }
 
+
 variable "domain_name" {
   default = "mikeball.me"
 }
