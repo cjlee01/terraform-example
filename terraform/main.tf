@@ -3,6 +3,7 @@ variable "region" {
 }
 
 
+
 variable "domain_name" {
   default = "mikeball.me"
 }
